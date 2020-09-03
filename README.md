@@ -1,2 +1,2 @@
 # eksi-selenium
-Ekşi sözlük entri silme otomasyonu
+Selenium kullanarak ekşi sözlük entry silme işlemini otomatik olarak gerçekleştiren program.
